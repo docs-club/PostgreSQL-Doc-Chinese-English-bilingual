@@ -8,9 +8,10 @@ PostgreSQL 文档中英文参考。内容较多，仅节选实用部分，初版
   - [5. Data Definition](II.%20The%20SQL%20Language/5.%20Data%20Definition)
     - [5.11. Table Partitioning](II.%20The%20SQL%20Language/5.%20Data%20Definition#511-table-partitioning)
 
-- **VI. Reference**
-  - [III. PostgreSQL Server Applications]()
-    - [initdb]()
+- **[VI. Reference](VI.%20Reference)**
+  - [III. PostgreSQL Server Applications](VI.%20Reference/III.%20PostgreSQL%20Server%20Applications)
+    - [initdb](VI.%20Reference/III.%20PostgreSQL%20Server%20Applications/initdb)
+    - [pg_ctl](VI.%20Reference/III.%20PostgreSQL%20Server%20Applications/pg_ctl)
 
 ## License
 
