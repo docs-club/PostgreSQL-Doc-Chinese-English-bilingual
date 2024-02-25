@@ -16,5 +16,5 @@ that are unfamiliar with these issues are encouraged to read Part I first. SQL c
 
 ## Table of Contents
 
-- [5. Data Definition](II.%20The%20SQL%20Language/5.%20Data%20Definition)
-  - [5.11. Table Partitioning](II.%20The%20SQL%20Language/5.%20Data%20Definition#511-table-partitioning)
+- [5. Data Definition](5.%20Data%20Definition)
+  - [5.11. Table Partitioning](5.%20Data%20Definition#511-table-partitioning)
